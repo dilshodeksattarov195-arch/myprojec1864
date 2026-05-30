@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvalidate",
+        "uuid": 8570672,
+        "checksum": "3kokg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
